@@ -1,6 +1,6 @@
 # Favorite NPM Packages
 
-Description:- A website created for search npm packages and it to your favorite lists.
+Description:- A website created for search npm packages and add it to your favorite lists.
 
 ## site link:- https://whimsical-crisp-2630c4.netlify.app/
 
