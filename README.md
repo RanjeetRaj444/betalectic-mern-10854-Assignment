@@ -10,7 +10,6 @@ This is a search NPM packages website built with React with TypeScript, for styl
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
